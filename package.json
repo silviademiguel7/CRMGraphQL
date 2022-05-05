@@ -1,6 +1,10 @@
 {
   "name": "cmrgraphqlcurso",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.15.4",
+    "npm": "6.14.10"
+  },
   "description": "Curso de GraphQL",
   "main": "index.js",
   "scripts": {
